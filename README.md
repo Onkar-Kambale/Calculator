@@ -17,6 +17,9 @@ A simple and responsive calculator web application built using HTML, CSS, and Ja
 # 📷 Screenshot
 ![Landing Page Preview](calci-deployed.png)
 
+# 💻Deployed on
+https://onkar-kambale.github.io/Calculator/
+
 # 🛠️ How to Run
 1. Clone the repository:
    git clone https://github.com/Onkar-Kambale/Calculator.git
